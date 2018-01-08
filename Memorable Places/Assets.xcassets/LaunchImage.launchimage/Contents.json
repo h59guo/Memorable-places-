@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "orientation" : "portrait",
+      "idiom" : "iphone",
+      "filename" : "c2f8cd938f014323ed11ad166b49b272--iphone--wallpaper-wallpaper-backgrounds.jpg",
+      "minimum-system-version" : "7.0",
+      "scale" : "2x"
+    },
+    {
+      "orientation" : "portrait",
+      "idiom" : "iphone",
+      "filename" : "c2f8cd938f014323ed11ad166b49b272--iphone--wallpaper-wallpaper-backgrounds-1.jpg",
+      "minimum-system-version" : "7.0",
+      "subtype" : "retina4",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
